@@ -1,0 +1,39 @@
+page-home {
+    .header .toolbar-title{
+        text-align: left;
+        color: white !important;
+    }
+
+    .toolbar {
+        .toolbar-background{
+            background-color: #0048ff ;
+        }
+    }
+
+    .nama{
+        font-style: italic;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 12px;
+    }
+
+    .judul{
+        font-weight: bold;
+        font-size: 14px;
+        font-family: Arial, Helvetica, sans-serif; 
+        text-align:justify
+    }
+
+    .deskripsi{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        text-align: justify;
+    }
+
+    .publis{
+        font-size: 10px;
+        font-style: italic;
+        padding-top: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}
+ 
